@@ -1,0 +1,7 @@
+{
+  "name": "cruise-ducks",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
